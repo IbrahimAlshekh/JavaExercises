@@ -1,4 +1,4 @@
-package com.alshekh.JavaExcercises.HospitalAppointmentSystem;
+package com.alshekh.JavaExcercises.HospitalAppointmentSystem.FixedArraySize;
 
 public class Kisi {
     protected int id;

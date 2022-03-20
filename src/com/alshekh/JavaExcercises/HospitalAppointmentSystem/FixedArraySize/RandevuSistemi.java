@@ -1,4 +1,4 @@
-package com.alshekh.JavaExcercises.HospitalAppointmentSystem;
+package com.alshekh.JavaExcercises.HospitalAppointmentSystem.FixedArraySize;
 
 import java.util.Scanner;
 
