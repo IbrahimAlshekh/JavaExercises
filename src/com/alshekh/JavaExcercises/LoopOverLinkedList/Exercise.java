@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Scanner;
 
-public class Excercise
+public class Exercise
 {
   public static void islemleri_bastir()
   {
